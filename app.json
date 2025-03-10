@@ -1,4 +1,8 @@
 {
   "name": "SpeedSphere",
-  "displayName": "SpeedSphere"
+  "displayName": "SpeedSphere",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-xxxxxxxx~yyyyyyyy",
+    "ios_app_id": "ca-app-pub-xxxxxxxx~yyyyyyyy"
+  }
 }

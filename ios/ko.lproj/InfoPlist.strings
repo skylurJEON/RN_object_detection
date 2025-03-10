@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  SpeedSphere
+
+  Created by 전석호 on 1/13/25.
+  
+*/
+
+"NSCameraUsageDescription" = "객체 인식을 위해 카메라를 사용합니다.";

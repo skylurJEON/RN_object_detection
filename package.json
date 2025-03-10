@@ -10,8 +10,24 @@
     "test": "jest"
   },
   "dependencies": {
+    "@react-navigation/native": "^7.0.14",
+    "@react-navigation/stack": "^7.1.1",
+    "@shopify/react-native-skia": "^1.8.1",
+    "i18next": "^24.2.1",
     "react": "18.3.1",
-    "react-native": "0.76.5"
+    "react-i18next": "^15.4.0",
+    "react-native": "0.76.5",
+    "react-native-fast-tflite": "liontariai/react-native-fast-tflite",
+    "react-native-gesture-handler": "^2.21.2",
+    "react-native-google-mobile-ads": "^14.8.0",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-reanimated": "^3.16.6",
+    "react-native-safe-area-context": "^5.0.0",
+    "react-native-screens": "^4.4.0",
+    "react-native-vision-camera": "^4.6.3",
+    "react-native-worklets-core": "^1.5.0",
+    "recoil": "^0.7.7",
+    "vision-camera-resize-plugin": "^3.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",

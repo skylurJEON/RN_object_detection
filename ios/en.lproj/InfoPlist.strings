@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  SpeedSphere
+
+  Created by 전석호 on 1/13/25.
+  
+*/
+
+"NSCameraUsageDescription" = "This app uses the camera to detect objects.";

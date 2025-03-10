@@ -23,6 +23,9 @@ target 'SpeedSphere' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
+  $RNGoogleMobileAdsAsStaticFramework = true
+  $EnableCoreMLDelegate = true
+
   target 'SpeedSphereTests' do
     inherit! :complete
     # Pods for testing
